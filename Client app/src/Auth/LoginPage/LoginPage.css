@@ -1,0 +1,116 @@
+/* .MainLoginPageWrapper*/
+
+.MainLoginPageWrapper {
+  /* background: red; */
+  width: 500px;
+  /* background: #fff; */
+  /* color: #fff;
+  color: rgb(235, 229, 229); */
+  font-size: 18px;
+}
+
+.MainLoginPageWrapper .mb-3 label {
+  font-weight: 400;
+  font-size: 19px;
+  text-transform: capitalize;
+  color: #6c757d;
+  /* color: rgb(235, 229, 229); */
+  margin-right: 10px;
+  /* color: #fff; */
+}
+
+.MainLoginPageWrapper .mb-3 .error-messageTop {
+  color: rgb(255 27 214);
+  font-weight: 400;
+  font-size: 20px;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+}
+
+.MainLoginPageWrapper .mb-3 .success-messageTop {
+  color: rgb(27, 255, 160);
+  color: rgb(130, 164, 238);
+  font-weight: 400;
+  font-size: 20px;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+}
+
+.error-message {
+  color: rgb(255 27 214);
+  font-weight: 400;
+  font-size: 18px;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+}
+
+/* .MainLoginPageWrapper .mb-3 p {
+  color: #6c757d;
+  padding: 10px;
+  padding-left: 0px;
+  background: #b3c5c529;
+  font-size: 20px;
+  margin-top: 20px;
+} */
+.MainLoginPageWrapper .mb-3 .text-start {
+  color: #6c757d;
+  padding: 10px;
+  padding-left: 0px;
+  background: #b3c5c529;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.MainLoginPageWrapper .mb-3 .text-start1 {
+  color: #6c757d;
+  padding: 10px;
+  padding-left: 0px;
+  background: #b3c5c529;
+  font-size: 20px;
+  color: #110e0ea9;
+  color: rgb(91, 81, 226);
+  margin-top: 20px;
+}
+.MainLoginPageWrapper .mb-3 .form-control-check {
+  width: 20px;
+  height: 20px;
+  padding-top: 20px;
+}
+
+.MainLoginPageWrapper .mb-3 .form-control:focus {
+  /* border: none;
+  border-radius: 0px; */
+  /* outline: none; */
+}
+
+.MainLoginPageWrapper .mb-3 .form-control::placeholder {
+  color: grey;
+}
+.MainLoginPageWrapper .mb-3 .error-field {
+  outline: 1px solid rgb(255 27 214);
+  border-radius: 3px;
+  border: none;
+}
+
+.MainLoginPageWrapper a {
+  text-decoration: none;
+  color: slateblue;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.MainLoginPageWrapper a:hover {
+  /* color: #fff; */
+  /* color: blue;
+  border: 1px solid white;
+  padding: 10px;
+  padding-left: 10px;
+  padding-right: 10px; */
+}
+/* 
+@media screen and (max-width: 980px) {
+  .MainLoginPageWrapper {
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+  }
+} */

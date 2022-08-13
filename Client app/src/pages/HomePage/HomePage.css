@@ -1,0 +1,21 @@
+/***  Left section  ***/
+.LeftSectionA1 {
+  margin-left: 50px;
+  background: #0c0c0c;
+}
+
+.LeftSectionA2 {
+  margin-left: 200px;
+  background: #0c0c0c;
+}
+
+.VideoSkeletonWrapper {
+  margin-top: 20px;
+  margin-left: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+  margin-right: 0px;
+}
+
+/*****  for tool tip ***/
