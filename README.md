@@ -20,6 +20,11 @@
 </p>
 
 
+## Architecture 
+
+![Screenshot (342)](https://user-images.githubusercontent.com/62344675/184499021-6b5c6440-b8db-4cd1-ab94-a7adb90de2f3.png)
+
+
 ## Data Flow
 
 > Main Server  =>  Routes =>  Controllers =>  Services => Model    
